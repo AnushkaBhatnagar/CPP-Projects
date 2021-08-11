@@ -1,15 +1,3 @@
-/* Statement: Create structure to manage the books in “Library” with following data item and functions.
-i.	Name of the book
-ii.	Author of the book
-iii.	Price of the book
-iv.	No. of copies 
-Implement following functions to perform operations
-1.	Read the data of 5 books
-2.	Display the data of books
-3.	Search the specified book in the Library by name, if it is available or not, if available then display no of copies of the book.
-4.	Search the specified book in the Library by Author Name, display all the books of the same author.
-5.	Sort the list of books by its name.*/
-
 #include <iostream>
 using namespace std;
 struct Library
